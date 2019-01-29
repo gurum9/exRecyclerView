@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+            android:id="@+id/navigation_home"
+            android:icon="@drawable/round_home_24"
+            android:title="홈"/>
+
+    <item
+            android:id="@+id/navigation_add_item"
+            android:icon="@drawable/round_add_box_24"
+            android:title="아이템 올리기"/>
+
+    <item
+            android:id="@+id/navigation_community"
+            android:icon="@drawable/round_group_24"
+            android:title="커뮤니티"/>
+
+    <item
+            android:id="@+id/navigation_chat"
+            android:icon="@drawable/round_chat_24"
+            android:title="채팅"/>
+</menu>
